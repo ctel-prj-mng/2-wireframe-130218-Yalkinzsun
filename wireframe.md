@@ -1,1 +1,1 @@
-![](/img/wireframe-desktop_v2.jpeg)
+![](/img/wireframe-desktop_v2.jpg)
